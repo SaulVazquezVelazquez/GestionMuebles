@@ -1,0 +1,48 @@
+.display-none {
+	display: none !important;
+}
+
+.th-cot {
+	width: 115px !important;
+}
+
+.letra-small {
+	font-size: smaller !important;
+}
+
+.letra-xxsmall {
+	font-size: x-small !important;
+}
+
+#tabla-items {
+    display: table;
+    table-layout: auto;
+}
+
+.avatar-87{
+	height: 87px !important;
+    width: 150px !important;
+    line-height: 87px !important;
+    min-width: 150px;
+}
+
+.table th {
+    padding: 2px !important;
+    vertical-align: top;
+    border-top: 1px solid #f1f1f1;
+}
+
+.float-left {
+    float: left; /* Alinea el símbolo de pesos a la izquierda */
+    padding-right: 5px; /* Espacio entre el símbolo de pesos y el número */
+}
+
+.float-right {
+    float: right; /* Alinea el número a la derecha */
+}
+
+.centered-cell {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
